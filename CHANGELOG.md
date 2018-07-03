@@ -1,5 +1,15 @@
 ## 更新日志
 
+# [v1.1.0](2018-07-03)
+
+**Bugfix**
+
+- 修复props中color和backgroundColor的设置错误
+
+**README**
+
+- 完善部分文档
+
 # [v1.0.0](2018-07-03)
 
 **Feature**

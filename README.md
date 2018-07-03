@@ -4,7 +4,7 @@
 <a href="https://www.npmjs.com/package/vue-notice-bar"><img src="https://img.shields.io/npm/l/vue-notice-bar.svg" alt="License"></a>
 <a href="https://www.npmjs.com/package/vue-notice-bar"><img src="https://img.shields.io/npm/dm/vue-notice-bar.svg" alt="Downloads"></a>
 
->  a notice-bar component Vue.js
+>  a notice-bar component for Vue2.0
 
 ## Install
 
@@ -28,7 +28,7 @@
 
 ```HTML
   <notice-bar
-    text="德国、葡萄牙、阿根廷、西班牙相继出局"
+    :text="msg"
     icon="http://o8sux93eg.bkt.clouddn.com/notice.png"
     :speed="30"
     :callback="handleAnimationEnd">
