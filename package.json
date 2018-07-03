@@ -1,11 +1,17 @@
 {
   "name": "vue-notice-bar",
   "description": "a notice-bar component for Vue2.0",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "daiqingyun 15751165579@163.com",
   "license": "MIT",
   "private": false,
   "main": "dist/vue-notice-bar.js",
+  "keywords": [
+    "vue",
+    "component",
+    "notice",
+    "notification"
+  ],
   "repository": {
     "type": "git",
     "url": ""
