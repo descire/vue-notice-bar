@@ -1,5 +1,9 @@
 # vue-notice-bar
 
+<a href="https://www.npmjs.com/package/vue-notice-bar"><img src="https://img.shields.io/npm/v/vue-notice-bar.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/vue-notice-bar"><img src="https://img.shields.io/npm/l/vue-notice-bar.svg" alt="License"></a>
+<a href="https://www.npmjs.com/package/vue-notice-bar"><img src="https://img.shields.io/npm/dm/vue-notice-bar.svg" alt="Downloads"></a>
+
 >  a notice-bar component Vue.js
 
 ## Install
@@ -68,7 +72,8 @@
 
 ## API
 
-| --: propName :-- | --: Type :-- | --: Required :-- | --: Default :-- |
+| propName | Type | Required | Default |
+| :---: | :---: | :---: | :---:|
 | color | String | false | #FFF |
 | backgroundColor | String | false | #F60 |
 | icon | String | false | '' |
